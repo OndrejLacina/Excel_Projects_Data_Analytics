@@ -2,7 +2,7 @@
 
 V Excel kurzu pro data analytiky jsem zpracoval 2 projekty v rámci kurzu.
 
-1. **Projekt - Dashboard** = funkce, validace dat
-2. **Projekt - Analýza dat** = Pivot tables/charts, Power Query, Power Pivots, DAX
+1. **Projekt - Dashboard** = funkce, validace dat [Odkaz zde](https://github.com/OndrejLacina/Excel_Projects_Data_Analytics/tree/main/Project1_Dahsboard)
+2. **Projekt - Analýza dat** = Pivot tables/charts, Power Query, Power Pivots, DAX [Odkaz zde](https://github.com/OndrejLacina/Excel_Projects_Data_Analytics/tree/main/Project2_Analysis)
 
-Ke každému projektu je ve složce samostatný README soubor s popisem.
+> Ke každému projektu je ve složce samostatný README soubor s popisem.
