@@ -1,0 +1,21 @@
+# 2️⃣ Project - Analysis
+
+In Excel, I've done a few questions below with following Excel skills:
+
+- 📊 Pivot Tables
+- 📈 Pivot Charts
+- 🧮 DAX (Data Analysis Expressions)
+- 🔍 Power Query
+- 💪 Power Pivot
+
+## Questions
+
+1. **Do more skills get you better pay?**
+2. **What’s the salary for data jobs in different regions?**
+3. **What are the top skills of data professionals?**
+4. **What’s the pay for the top 10 skills?**
+
+### Data jobs dataset
+
+- include real-world data science job information from 2023
+- Information of: 👨‍💼 Job titles, 💰 Salaries, 📍 Locations, 🛠️ Skills
