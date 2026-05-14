@@ -37,6 +37,6 @@ Then, I transformed each query by changing column types, removing unnecessary co
 
 - `data_jobs_salary`
 
-![Power Query 1](images\01 Skills vs Salary - powerquery1.png)
+![Power Query 1]()
 
 - `data_jobs_skills`
